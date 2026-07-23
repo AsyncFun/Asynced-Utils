@@ -1,0 +1,74 @@
+{
+    "guilds": {
+        "1479749743784493128": {
+            "join": {
+                "enabled": false,
+                "channel": null,
+                "message_data": {
+                    "content": "Yoo look who joined {user} wsp dawg enjoy ur stay ma dog",
+                    "embeds": []
+                }
+            },
+            "leave": {
+                "enabled": false,
+                "channel": null,
+                "message_data": {
+                    "content": "{username} bro left. What a loser. haha sucker",
+                    "embeds": []
+                }
+            }
+        },
+        "1519377441783550012": {
+            "join": {
+                "enabled": false,
+                "channel": 1519690569947938886,
+                "message_data": {
+                    "embeds": [
+                        {
+                            "author": {
+                                "name": "Kitbyte's Database"
+                            },
+                            "title": "WELCOME TO KITBYTE'S DATABASE",
+                            "color": 51967,
+                            "description": "> Enjoy your stay and happy ordering!",
+                            "footer": {
+                                "text": "Server member count: {server_membercount}"
+                            }
+                        }
+                    ],
+                    "content": "{user}"
+                }
+            },
+            "leave": {
+                "enabled": false,
+                "channel": 1519697223368179732,
+                "message_data": {
+                    "embeds": [
+                        {
+                            "author": {
+                                "name": "{servername}"
+                            },
+                            "title": "Good bye {username} ",
+                            "color": 16711680,
+                            "description": "> Hope you had a good time in the server! ",
+                            "footer": {
+                                "text": "Member count: {server_membercount}"
+                            }
+                        }
+                    ],
+                    "content": ""
+                }
+            }
+        },
+        "1487851692748963992": {
+            "join": {
+                "enabled": false,
+                "channel": null,
+                "message_data": {
+                    "content": "Hello **{user}**! The community welcomes you to **{servername}**.\nMember count: **{server_membercount}**",
+                    "embeds": []
+                }
+            }
+        }
+    }
+}

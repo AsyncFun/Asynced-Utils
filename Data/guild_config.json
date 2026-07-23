@@ -1,0 +1,53 @@
+{
+    "guilds": {
+        "1479749743784493128": {
+            "get": true,
+            "help": false,
+            "joinleave": false,
+            "logs": false,
+            "moderation": false,
+            "role": false,
+            "utility": false,
+            "autoping": false,
+            "tickets": false
+        },
+        "1519377441783550012": {
+            "get": true,
+            "help": false,
+            "joinleave": false,
+            "logs": false,
+            "moderation": false,
+            "role": false,
+            "utility": false,
+            "autoping": false,
+            "tickets": false
+        },
+        "1490059335005507614": {
+            "get": true,
+            "help": true,
+            "joinleave": true,
+            "logs": true,
+            "moderation": true,
+            "role": true,
+            "utility": true
+        },
+        "1444647745510965391": {
+            "get": true,
+            "help": true,
+            "joinleave": true,
+            "logs": true,
+            "moderation": true,
+            "role": true,
+            "utility": true
+        },
+        "1487851692748963992": {
+            "get": true,
+            "help": true,
+            "joinleave": true,
+            "logs": true,
+            "moderation": true,
+            "role": true,
+            "utility": true
+        }
+    }
+}

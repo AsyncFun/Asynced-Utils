@@ -1,0 +1,46 @@
+{
+    "guilds": {
+        "1490059335005507614": {
+            "RolesAllwd": [],
+            "warns": {
+                "1155076852566724668": [],
+                "1296470333100130329": [
+                    {
+                        "Responsible": 893866153196261376,
+                        "Reason": "Advertising; I wont ban bro ill just warn you",
+                        "Time": "<t:1778429545:R>"
+                    }
+                ],
+                "1273254518892658762": [
+                    {
+                        "Responsible": 893866153196261376,
+                        "Reason": "spam please keep chat clean",
+                        "Time": "<t:1779034413:R>"
+                    }
+                ]
+            }
+        },
+        "1479749743784493128": {
+            "RolesAllwd": [],
+            "warns": {
+                "1479746277481775155": [
+                    {
+                        "Responsible": 893866153196261376,
+                        "Reason": [],
+                        "Time": "<t:1778656414:R>"
+                    },
+                    {
+                        "Responsible": 893866153196261376,
+                        "Reason": "Not provided",
+                        "Time": "<t:1778656415:R>"
+                    },
+                    {
+                        "Responsible": 893866153196261376,
+                        "Reason": "Not provided",
+                        "Time": "<t:1778656539:R>"
+                    }
+                ]
+            }
+        }
+    }
+}

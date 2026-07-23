@@ -1,0 +1,8 @@
+{
+    "guilds": {
+        "<gid>": {
+            "channels": [],
+            "dms": false
+        }
+    }
+}
